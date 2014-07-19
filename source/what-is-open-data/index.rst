@@ -8,25 +8,25 @@ makes *open* data open, and what sorts of data are we talking about?
 What is Open?
 =============
 
-This handbook is about open data - but what exactly is *open* data? For our
+This handbook is about open data — but what exactly is *open* data? For our
 purposes, open data is as defined by the `Open Definition`_:
 
 *Open data is data that can be freely used, re-used and redistributed by
-anyone - subject only, at most, to the requirement to attribute and
-sharealike.*
+anyone — subject only, at most, to the requirement to attribute and
+share-alike.*
 
 The `full Open Definition`_ gives precise details as to what this means. 
-To summarize the most important:
+To summarize the most important parts:
 
--  **Availability and Access:** the data must be available as a whole
+-  **Availability and Access:** The data must be available as a whole
    and at no more than a reasonable reproduction cost, preferably by
    downloading over the internet. The data must also be available in a
    convenient and modifiable form.
--  **Re-use and Redistribution:** the data must be provided under terms
+-  **Re-use and Redistribution:** The data must be provided under terms
    that permit re-use and redistribution including the intermixing with
    other datasets.
--  **Universal Participation:** everyone must be able to use, re-use and
-   redistribute - there should be no discrimination against fields of
+-  **Universal Participation:** Everyone must be able to use, re-use and
+   redistribute. There should be no discrimination against fields of
    endeavour or against persons or groups. For example, ‘non-commercial’
    restrictions that would prevent ‘commercial’ use, or restrictions of
    use for certain purposes (e.g. only in education), are not allowed.
@@ -37,12 +37,12 @@ means and why this definition is used, there’s a simple answer:
 
 Interoperability denotes the ability of diverse systems and
 organizations to work together (inter-operate). In this case, it is the
-ability to interoperate - or intermix - different datasets.
+ability to interoperate — or intermix — different datasets.
 
 Interoperability is important because it allows for different components
 to work together. This ability to componentize and to ‘plug together’
 components is essential to building large, complex systems. Without
-interoperability this becomes near impossible — as evidenced in the most
+interoperability, this becomes near impossible — as evidenced in the most
 famous myth of the Tower of Babel where the (in)ability to communicate
 (to interoperate) resulted in the complete breakdown of the
 tower-building effort.
@@ -53,8 +53,8 @@ can be freely intermixed with other “open” material. This
 interoperability is absolutely key to realizing the main practical
 benefits of “openness”: the dramatically enhanced ability to combine
 different datasets together and thereby to develop more and better
-products and services (these benefits are discussed in more detail in
-the section on ‘why’ open data).
+products and services. (These benefits are discussed in more detail in
+the section on ‘why’ open data.)
 
 Providing a clear definition of openness ensures that when you get two
 open datasets from two different sources, you will be able to combine
@@ -67,16 +67,16 @@ larger systems where the real value lies.**
 
 .. _what-data-can-be-open:
 
-What Data are You Talking About?
+What Data Are You Talking About?
 ================================
 
 Readers have already seen examples of the sorts of data that are 
-or may become open - and they will see more examples below. 
+or may become open, and they will see more examples below. 
 However, it will be useful to quickly outline what sorts of data 
-are, or could be, open -- and, equally importantly, what won’t be open.
+are, or could be, open — and, equally importantly, what won’t be open.
 
 The key point is that when opening up data, the focus is 
-on non-personal data, that is, data which does not contain 
+on non-personal data: data which does not contain 
 information about specific individuals.
 
 Similarly, for some kinds of government data, national security 
